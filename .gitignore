@@ -9,3 +9,7 @@
 /Microstrip Example 1/microstrip_simulation_1_openEMS_simulation/tmp
 /Planar Filter Design/tmp
 dipole_simulation
+simulation_output
+*_openEMS_simulation
+*.FCBak
+Inverted_F_basic_openEMS_simulation_2
